@@ -134,12 +134,14 @@ El diseño del tablero implementa un sistema modular de cuadrícula (2x2) con pa
 
 ```text
 ├── data/
-│   └── raw/                       <- Archivo CSV original (tabla plana)
+│   └── Sample - Superstore.csv    <- Archivo CSV original (tabla plana)
 ├── pbix/
-│   └── Superstore_Analytics.pbix  <- Tablero interactivo de Power BI
+│   └── SuperStore.pbix  <- Tablero interactivo de Power BI
 ├── docs/
-│   ├── data_model.png             <- Diagrama visual del Star Schema
-│   └── screenshots/               <- Capturas en alta resolución de las 3 vistas
+│   └── img/                       <- Capturas en alta resolución de las 3 vistas
+│       ├── Ventas.png                
+|       ├── Clientes.png
+|       └── Productos.png
 └── README.md
 ```
 
