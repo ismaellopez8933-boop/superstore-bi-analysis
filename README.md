@@ -149,7 +149,7 @@ El diseño del tablero implementa un sistema modular de cuadrícula (2x2) con pa
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/superstore-bi-analytics.git
+   git clone https://github.com/ismaellopez8933-boop/superstore-bi-analysis.git
    ```
 2. Abre el archivo `.pbix` ubicado en la carpeta `pbix/` utilizando **Power BI Desktop**.
 3. Utiliza la barra de navegación lateral izquierda para recorrer las pantallas de **Ventas**, **Clientes** y **Productos**, y experimenta con los botones de alternancia en los rankings de clientes y productos.
